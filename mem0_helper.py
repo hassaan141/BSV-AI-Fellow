@@ -20,9 +20,9 @@ from mem0 import MemoryClient
 USER_ID = "vla-research-session"
 
 # Put your real keys here locally.
-MEM0_API_KEY = "m0-k6WnFRRZWPO5skpDIDL7RvtFcRiaxLvCfmA1urr7"
-NVIDIA_NEMOTRON_API_KEY = "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"
-NVIDIA_MINIMAX_API_KEY = "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"
+MEM0_API_KEY = ""
+NVIDIA_NEMOTRON_API_KEY = ""
+NVIDIA_MINIMAX_API_KEY = ""
 
 NVIDIA_BASE = "https://integrate.api.nvidia.com/v1"
 
